@@ -1,0 +1,7 @@
+id,binder_1,binder_2,filler_1,filler_2,feasible
+f1_f2,pea_protein,xanthan_gum,bark,seagrass,True
+f1_f3,pea_protein,xanthan_gum,bark,hemp,True
+f2_f3,pea_protein,xanthan_gum,seagrass,hemp,True
+f1_none,pea_protein,xanthan_gum,bark,none,True
+f2_none,pea_protein,xanthan_gum,seagrass,none,True
+f3_none,pea_protein,xanthan_gum,hemp,none,True

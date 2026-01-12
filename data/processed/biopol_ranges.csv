@@ -1,0 +1,6 @@
+id,parameter,option,range_low,range_high
+f1,filler,bark,5.0,20.0
+f2,filler,seagrass,15.0,20.0
+f3,filler,hemp,5.0,15.0
+b1,binder,pea_protein,,
+b2,binder,xanthan_gum,,
