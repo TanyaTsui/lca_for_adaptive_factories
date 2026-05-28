@@ -1,6 +1,0 @@
-id,parameter,option,range_low,range_high,eu_crop_code,yield_kg_m2
-f1,filler,bark,5.0,20.0,216,2.125
-f2,filler,seagrass,15.0,20.0,100,1.375
-f3,filler,hemp,5.0,15.0,211,1.0
-b1,binder,pea_protein,,,500,2.5
-b2,binder,xanthan_gum,,,300,1.75
