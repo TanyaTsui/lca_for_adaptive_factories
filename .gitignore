@@ -4,3 +4,4 @@
 /data/processed/*.feather
 /data/
 /_backup/.DS_Store
+*.DS_Store
