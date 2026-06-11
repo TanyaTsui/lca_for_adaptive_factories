@@ -3,4 +3,4 @@
 /data/*.tif
 /data/processed/*.feather
 /data/
-/_backup/
+/_backup/.DS_Store
