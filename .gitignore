@@ -2,3 +2,5 @@
 # Large local data
 /data/*.tif
 /data/processed/*.feather
+/data/
+/_backup/
