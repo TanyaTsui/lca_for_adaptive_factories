@@ -1,0 +1,26 @@
+,,score
+"('EF v3.1', 'acidification', 'accumulated exceedance (AE)')",1kg 3D printed biopolymer,0.008438176034382815
+"('EF v3.1', 'climate change', 'global warming potential (GWP100)')",1kg 3D printed biopolymer,1.9874889989796094
+"('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)')",1kg 3D printed biopolymer,0.005607253779257899
+"('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)')",1kg 3D printed biopolymer,1.974531159773397
+"('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)')",1kg 3D printed biopolymer,0.007350585426954652
+"('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)')",1kg 3D printed biopolymer,20.117093070208075
+"('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)')",1kg 3D printed biopolymer,12.569035353317535
+"('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)')",1kg 3D printed biopolymer,7.548057716890539
+"('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels')",1kg 3D printed biopolymer,23.41090519769284
+"('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)')",1kg 3D printed biopolymer,0.0021157736697293163
+"('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)')",1kg 3D printed biopolymer,0.017849610948936133
+"('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)')",1kg 3D printed biopolymer,0.027515129533309222
+"('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)')",1kg 3D printed biopolymer,1.017437760847046e-09
+"('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)')",1kg 3D printed biopolymer,4.0707842389786747e-10
+"('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)')",1kg 3D printed biopolymer,6.103593369491786e-10
+"('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)')",1kg 3D printed biopolymer,5.749194219733049e-08
+"('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)')",1kg 3D printed biopolymer,5.539292192375873e-08
+"('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)')",1kg 3D printed biopolymer,2.0990202735717607e-09
+"('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235')",1kg 3D printed biopolymer,0.16876844442864575
+"('EF v3.1', 'land use', 'soil quality index')",1kg 3D printed biopolymer,197.67168097823983
+"('EF v3.1', 'material resources: metals/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)')",1kg 3D printed biopolymer,1.0232779795953519e-05
+"('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)')",1kg 3D printed biopolymer,3.7633308876622504e-08
+"('EF v3.1', 'particulate matter formation', 'impact on human health')",1kg 3D printed biopolymer,5.669093183756446e-08
+"('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase')",1kg 3D printed biopolymer,0.0058144837083797755
+"('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)')",1kg 3D printed biopolymer,3.4590784360830837

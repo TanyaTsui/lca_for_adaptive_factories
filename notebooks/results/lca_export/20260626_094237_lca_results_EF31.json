@@ -1,0 +1,902 @@
+{
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'cotton filler production')":{
+    "score":0.0214179007
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'hemp dust filler production')":{
+    "score":0.0005942193
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'cellulose filler production')":{
+    "score":0.0009460252
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0126645459
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'Kiln baking')":{
+    "score":0.008438176
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'pea protein binder production')":{
+    "score":0.0031978545
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'mix preparation')":{
+    "score":0.0027080879
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), '3D printing')":{
+    "score":0.0028609809
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'bark flour filler production')":{
+    "score":0.0007844533
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'seagrass filler production')":{
+    "score":0.0051750246
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'wood flour filler production')":{
+    "score":0.0005270084
+  },
+  "(('EF v3.1', 'acidification', 'accumulated exceedance (AE)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0080455298
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'cotton filler production')":{
+    "score":1.126153216
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'hemp dust filler production')":{
+    "score":0.2141668417
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'cellulose filler production')":{
+    "score":0.3799447272
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'AEIEP pea protein isolate production')":{
+    "score":2.9575942837
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'Kiln baking')":{
+    "score":1.987488999
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'pea protein binder production')":{
+    "score":0.5523898715
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'mix preparation')":{
+    "score":0.4936685531
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), '3D printing')":{
+    "score":0.5580157636
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'bark flour filler production')":{
+    "score":0.2491730305
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'seagrass filler production')":{
+    "score":2.3727327774
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'wood flour filler production')":{
+    "score":0.1416919196
+  },
+  "(('EF v3.1', 'climate change', 'global warming potential (GWP100)'), 'Drying with dehumidifying chamber')":{
+    "score":1.8024682206
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'cotton filler production')":{
+    "score":0.000836753
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'hemp dust filler production')":{
+    "score":0.0007468979
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'cellulose filler production')":{
+    "score":0.001409578
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0062549809
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'Kiln baking')":{
+    "score":0.0056072538
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'pea protein binder production')":{
+    "score":0.0010963848
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'mix preparation')":{
+    "score":0.0010544399
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), '3D printing')":{
+    "score":0.0013008395
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'bark flour filler production')":{
+    "score":0.0007990225
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'seagrass filler production')":{
+    "score":0.0093755439
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'wood flour filler production')":{
+    "score":0.000363272
+  },
+  "(('EF v3.1', 'climate change: biogenic', 'global warming potential (GWP100)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0048676548
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'cotton filler production')":{
+    "score":0.8508554415
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'hemp dust filler production')":{
+    "score":0.2130548708
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'cellulose filler production')":{
+    "score":0.377883602
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'AEIEP pea protein isolate production')":{
+    "score":2.9471919724
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'Kiln baking')":{
+    "score":1.9745311598
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'pea protein binder production')":{
+    "score":0.5483920156
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'mix preparation')":{
+    "score":0.4902020953
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), '3D printing')":{
+    "score":0.5541909778
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'bark flour filler production')":{
+    "score":0.2478685607
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'seagrass filler production')":{
+    "score":2.359262028
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'wood flour filler production')":{
+    "score":0.1410139321
+  },
+  "(('EF v3.1', 'climate change: fossil', 'global warming potential (GWP100)'), 'Drying with dehumidifying chamber')":{
+    "score":1.7905697076
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'cotton filler production')":{
+    "score":0.2744610215
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'hemp dust filler production')":{
+    "score":0.0003650729
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'cellulose filler production')":{
+    "score":0.0006515472
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0041473305
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'Kiln baking')":{
+    "score":0.0073505854
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'pea protein binder production')":{
+    "score":0.0029014711
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'mix preparation')":{
+    "score":0.0024120179
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), '3D printing')":{
+    "score":0.0025239463
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'bark flour filler production')":{
+    "score":0.0005054474
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'seagrass filler production')":{
+    "score":0.0040952056
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'wood flour filler production')":{
+    "score":0.0003147155
+  },
+  "(('EF v3.1', 'climate change: land use and land use change', 'global warming potential (GWP100)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0070308581
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'cotton filler production')":{
+    "score":149.9883593334
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'hemp dust filler production')":{
+    "score":0.7815863508
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'cellulose filler production')":{
+    "score":1.2500498064
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'AEIEP pea protein isolate production')":{
+    "score":34.4388225492
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'Kiln baking')":{
+    "score":20.1170930702
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'pea protein binder production')":{
+    "score":8.6724350069
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'mix preparation')":{
+    "score":7.1415595546
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), '3D printing')":{
+    "score":7.3478001735
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'bark flour filler production')":{
+    "score":0.8882255978
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'seagrass filler production')":{
+    "score":6.8813701335
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'wood flour filler production')":{
+    "score":0.5635236537
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)'), 'Drying with dehumidifying chamber')":{
+    "score":19.5942461567
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'cotton filler production')":{
+    "score":4.8274519734
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'hemp dust filler production')":{
+    "score":0.7727542345
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'cellulose filler production')":{
+    "score":1.2387013978
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'AEIEP pea protein isolate production')":{
+    "score":18.7027159277
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'Kiln baking')":{
+    "score":12.5690353533
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'pea protein binder production')":{
+    "score":4.929363449
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'mix preparation')":{
+    "score":4.1410604719
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), '3D printing')":{
+    "score":4.3456622292
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'bark flour filler production')":{
+    "score":0.8697856336
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'seagrass filler production')":{
+    "score":6.8397737998
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'wood flour filler production')":{
+    "score":0.5517474645
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, inorganics', 'comparative toxic unit for ecosystems (CTUe)'), 'Drying with dehumidifying chamber')":{
+    "score":12.0489969749
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'cotton filler production')":{
+    "score":145.16090736
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'hemp dust filler production')":{
+    "score":0.0088321163
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'cellulose filler production')":{
+    "score":0.0113484086
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'AEIEP pea protein isolate production')":{
+    "score":15.7361066215
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'Kiln baking')":{
+    "score":7.5480577169
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'pea protein binder production')":{
+    "score":3.743071558
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'mix preparation')":{
+    "score":3.0004990827
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), '3D printing')":{
+    "score":3.0021379442
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'bark flour filler production')":{
+    "score":0.0184399641
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'seagrass filler production')":{
+    "score":0.0415963337
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'wood flour filler production')":{
+    "score":0.0117761892
+  },
+  "(('EF v3.1', 'ecotoxicity: freshwater, organics', 'comparative toxic unit for ecosystems (CTUe)'), 'Drying with dehumidifying chamber')":{
+    "score":7.5452491818
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'cotton filler production')":{
+    "score":7.2148064779
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'hemp dust filler production')":{
+    "score":2.685638571
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'cellulose filler production')":{
+    "score":4.7918531838
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'AEIEP pea protein isolate production')":{
+    "score":31.3291547718
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'Kiln baking')":{
+    "score":23.4109051977
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'pea protein binder production')":{
+    "score":6.1246574201
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'mix preparation')":{
+    "score":5.5453890524
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), '3D printing')":{
+    "score":6.3565132417
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'bark flour filler production')":{
+    "score":3.2178093894
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'seagrass filler production')":{
+    "score":30.1103044334
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'wood flour filler production')":{
+    "score":1.8816882787
+  },
+  "(('EF v3.1', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels'), 'Drying with dehumidifying chamber')":{
+    "score":21.0602104237
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'cotton filler production')":{
+    "score":0.0011343943
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'hemp dust filler production')":{
+    "score":0.0002896532
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'cellulose filler production')":{
+    "score":0.0005364064
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0025542083
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'Kiln baking')":{
+    "score":0.0021157737
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'pea protein binder production')":{
+    "score":0.0004160571
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'mix preparation')":{
+    "score":0.0004021437
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), '3D printing')":{
+    "score":0.0004954438
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'bark flour filler production')":{
+    "score":0.0002994349
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'seagrass filler production')":{
+    "score":0.003502585
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'wood flour filler production')":{
+    "score":0.0001482398
+  },
+  "(('EF v3.1', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0018403789
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'cotton filler production')":{
+    "score":0.0213428073
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'hemp dust filler production')":{
+    "score":0.0001743103
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'cellulose filler production')":{
+    "score":0.0002963914
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0513617035
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'Kiln baking')":{
+    "score":0.0178496109
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'pea protein binder production')":{
+    "score":0.0085468035
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'mix preparation')":{
+    "score":0.0068877057
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), '3D printing')":{
+    "score":0.00693623
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'bark flour filler production')":{
+    "score":0.0002388347
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'seagrass filler production')":{
+    "score":0.0017639071
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'wood flour filler production')":{
+    "score":0.000146077
+  },
+  "(('EF v3.1', 'eutrophication: marine', 'fraction of nutrients reaching marine end compartment (N)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0177133589
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'cotton filler production')":{
+    "score":0.0902699574
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'hemp dust filler production')":{
+    "score":0.0013498874
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'cellulose filler production')":{
+    "score":0.0021809393
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0427955527
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'Kiln baking')":{
+    "score":0.0275151295
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'pea protein binder production')":{
+    "score":0.0113675183
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'mix preparation')":{
+    "score":0.0094308093
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), '3D printing')":{
+    "score":0.0097755639
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'bark flour filler production')":{
+    "score":0.0020311614
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'seagrass filler production')":{
+    "score":0.0121708745
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'wood flour filler production')":{
+    "score":0.0013264098
+  },
+  "(('EF v3.1', 'eutrophication: terrestrial', 'accumulated exceedance (AE)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0265876068
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'cotton filler production')":{
+    "score":-0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'hemp dust filler production')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'cellulose filler production')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0000000016
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'Kiln baking')":{
+    "score":0.000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'pea protein binder production')":{
+    "score":0.0000000004
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'mix preparation')":{
+    "score":0.0000000004
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), '3D printing')":{
+    "score":0.0000000004
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'bark flour filler production')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'seagrass filler production')":{
+    "score":0.0000000003
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'wood flour filler production')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic', 'comparative toxic unit for human (CTUh)'), 'Drying with dehumidifying chamber')":{
+    "score":0.000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'cotton filler production')":{
+    "score":-0.0000000003
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'hemp dust filler production')":{
+    "score":0.0
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'cellulose filler production')":{
+    "score":0.0
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0000000008
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'Kiln baking')":{
+    "score":0.0000000004
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'pea protein binder production')":{
+    "score":0.0000000002
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'mix preparation')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), '3D printing')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'bark flour filler production')":{
+    "score":0.0
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'seagrass filler production')":{
+    "score":0.0000000002
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'wood flour filler production')":{
+    "score":0.0
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0000000004
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'cotton filler production')":{
+    "score":0.0000000002
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'hemp dust filler production')":{
+    "score":0.0
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'cellulose filler production')":{
+    "score":0.0
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0000000008
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'Kiln baking')":{
+    "score":0.0000000006
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'pea protein binder production')":{
+    "score":0.0000000003
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'mix preparation')":{
+    "score":0.0000000002
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), '3D printing')":{
+    "score":0.0000000002
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'bark flour filler production')":{
+    "score":0.0
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'seagrass filler production')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'wood flour filler production')":{
+    "score":0.0
+  },
+  "(('EF v3.1', 'human toxicity: carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0000000006
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'cotton filler production')":{
+    "score":0.0000000086
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'hemp dust filler production')":{
+    "score":0.0000000026
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'cellulose filler production')":{
+    "score":0.0000000036
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0000001394
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'Kiln baking')":{
+    "score":0.0000000575
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'pea protein binder production')":{
+    "score":0.0000000253
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'mix preparation')":{
+    "score":0.0000000209
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), '3D printing')":{
+    "score":0.0000000215
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'bark flour filler production')":{
+    "score":0.0000000029
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'seagrass filler production')":{
+    "score":0.0000000156
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'wood flour filler production')":{
+    "score":0.0000000022
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic', 'comparative toxic unit for human (CTUh)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0000000564
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'cotton filler production')":{
+    "score":-0.0000000113
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'hemp dust filler production')":{
+    "score":0.0000000025
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'cellulose filler production')":{
+    "score":0.0000000035
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0000001352
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'Kiln baking')":{
+    "score":0.0000000554
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'pea protein binder production')":{
+    "score":0.0000000243
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'mix preparation')":{
+    "score":0.0000000201
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), '3D printing')":{
+    "score":0.0000000207
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'bark flour filler production')":{
+    "score":0.0000000028
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'seagrass filler production')":{
+    "score":0.0000000151
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'wood flour filler production')":{
+    "score":0.0000000021
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, inorganics', 'comparative toxic unit for human (CTUh)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0000000543
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'cotton filler production')":{
+    "score":0.0000000199
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'hemp dust filler production')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'cellulose filler production')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0000000042
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'Kiln baking')":{
+    "score":0.0000000021
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'pea protein binder production')":{
+    "score":0.0000000009
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'mix preparation')":{
+    "score":0.0000000008
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), '3D printing')":{
+    "score":0.0000000008
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'bark flour filler production')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'seagrass filler production')":{
+    "score":0.0000000005
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'wood flour filler production')":{
+    "score":0.0000000001
+  },
+  "(('EF v3.1', 'human toxicity: non-carcinogenic, organics', 'comparative toxic unit for human (CTUh)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0000000021
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'cotton filler production')":{
+    "score":0.0302448219
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'hemp dust filler production')":{
+    "score":0.0219371656
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'cellulose filler production')":{
+    "score":0.0409360399
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'AEIEP pea protein isolate production')":{
+    "score":0.19256714
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'Kiln baking')":{
+    "score":0.1687684444
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'pea protein binder production')":{
+    "score":0.0351511145
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'mix preparation')":{
+    "score":0.033349458
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), '3D printing')":{
+    "score":0.0404725745
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'bark flour filler production')":{
+    "score":0.0262348613
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'seagrass filler production')":{
+    "score":0.2693183087
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'wood flour filler production')":{
+    "score":0.0166669913
+  },
+  "(('EF v3.1', 'ionising radiation: human health', 'human exposure efficiency relative to u235'), 'Drying with dehumidifying chamber')":{
+    "score":0.1475643111
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'cotton filler production')":{
+    "score":97.8042679287
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'hemp dust filler production')":{
+    "score":0.565750357
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'cellulose filler production')":{
+    "score":0.909760391
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'AEIEP pea protein isolate production')":{
+    "score":628.2964064156
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'Kiln baking')":{
+    "score":197.6716809782
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'pea protein binder production')":{
+    "score":97.3261122457
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'mix preparation')":{
+    "score":78.0932740166
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), '3D printing')":{
+    "score":78.2343107157
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'bark flour filler production')":{
+    "score":18.7507572617
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'seagrass filler production')":{
+    "score":5.0450470916
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'wood flour filler production')":{
+    "score":16.4232958119
+  },
+  "(('EF v3.1', 'land use', 'soil quality index'), 'Drying with dehumidifying chamber')":{
+    "score":197.2877376895
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'cotton filler production')":{
+    "score":0.0000077466
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'hemp dust filler production')":{
+    "score":0.0000017036
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'cellulose filler production')":{
+    "score":0.0000019735
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0000169297
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'Kiln baking')":{
+    "score":0.0000102328
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'pea protein binder production')":{
+    "score":0.0000036496
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'mix preparation')":{
+    "score":0.0000033881
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), '3D printing')":{
+    "score":0.0000036731
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'bark flour filler production')":{
+    "score":0.0000018362
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'seagrass filler production')":{
+    "score":0.0000052183
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'wood flour filler production')":{
+    "score":0.0000016195
+  },
+  "(('EF v3.1', 'material resources: metals\/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0000099315
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'cotton filler production')":{
+    "score":0.0000000162
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'hemp dust filler production')":{
+    "score":0.0000000019
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'cellulose filler production')":{
+    "score":0.0000000033
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'AEIEP pea protein isolate production')":{
+    "score":0.0000000667
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'Kiln baking')":{
+    "score":0.0000000376
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'pea protein binder production')":{
+    "score":0.000000015
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'mix preparation')":{
+    "score":0.0000000124
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), '3D printing')":{
+    "score":0.000000013
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'bark flour filler production')":{
+    "score":0.0000000026
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'seagrass filler production')":{
+    "score":0.0000000203
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'wood flour filler production')":{
+    "score":0.0000000016
+  },
+  "(('EF v3.1', 'ozone depletion', 'ozone depletion potential (ODP)'), 'Drying with dehumidifying chamber')":{
+    "score":0.0000000361
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'cotton filler production')":{
+    "score":0.0000001517
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'hemp dust filler production')":{
+    "score":0.0000000048
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'cellulose filler production')":{
+    "score":0.0000000063
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'AEIEP pea protein isolate production')":{
+    "score":0.000000084
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'Kiln baking')":{
+    "score":0.0000000567
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'pea protein binder production')":{
+    "score":0.0000000229
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'mix preparation')":{
+    "score":0.0000000196
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), '3D printing')":{
+    "score":0.0000000204
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'bark flour filler production')":{
+    "score":0.0000000082
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'seagrass filler production')":{
+    "score":0.0000000242
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'wood flour filler production')":{
+    "score":0.000000006
+  },
+  "(('EF v3.1', 'particulate matter formation', 'impact on human health'), 'Drying with dehumidifying chamber')":{
+    "score":0.000000055
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'cotton filler production')":{
+    "score":0.0036277089
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'hemp dust filler production')":{
+    "score":0.0003993445
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'cellulose filler production')":{
+    "score":0.0006266889
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'AEIEP pea protein isolate production')":{
+    "score":0.0124470253
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'Kiln baking')":{
+    "score":0.0058144837
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'pea protein binder production')":{
+    "score":0.0022484672
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'mix preparation')":{
+    "score":0.0018975357
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), '3D printing')":{
+    "score":0.0019942742
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'bark flour filler production')":{
+    "score":0.0006479497
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'seagrass filler production')":{
+    "score":0.0033595576
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'wood flour filler production')":{
+    "score":0.0004425102
+  },
+  "(('EF v3.1', 'photochemical oxidant formation: human health', 'tropospheric ozone concentration increase'), 'Drying with dehumidifying chamber')":{
+    "score":0.0055607479
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'cotton filler production')":{
+    "score":15.6250981759
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'hemp dust filler production')":{
+    "score":0.0473907506
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'cellulose filler production')":{
+    "score":0.0773012379
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'AEIEP pea protein isolate production')":{
+    "score":10.4979510653
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'Kiln baking')":{
+    "score":3.4590784361
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'pea protein binder production')":{
+    "score":1.6362973056
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'mix preparation')":{
+    "score":1.3224468694
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), '3D printing')":{
+    "score":1.3353347354
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'bark flour filler production')":{
+    "score":0.0561556462
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'seagrass filler production')":{
+    "score":0.436850169
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'wood flour filler production')":{
+    "score":0.0367813978
+  },
+  "(('EF v3.1', 'water use', 'user deprivation potential (deprivation-weighted water consumption)'), 'Drying with dehumidifying chamber')":{
+    "score":3.4256957381
+  }
+}
